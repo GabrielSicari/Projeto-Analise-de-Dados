@@ -72,7 +72,6 @@ As colunas da base de dados são:
 
 ## 2.3. Premissas
 * ID duplicados serão removidos da base de dados.
-* Imóveis que não possuem quartos ou banheiros serão removidos da base de dados
 * Para definição da compra dos imóveis foram utilizadas duas condições:
     * O imóvel deve estar em boa condição de compra. O indicador é representado pela coluna condição, sendo consideradas as condições boas como 3 a 5.
     * O valor de compra do imóvel deve ser menor do que o valor mediano da região (Código Postal)
