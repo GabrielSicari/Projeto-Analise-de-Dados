@@ -107,7 +107,7 @@ Caso a sugestão de valores de venda seja acatada, o lucro previsto com a venda 
 ### 3.2.3. Exibição das Análises
 Foi criado uma aplicação web utilizando o framework web Streamlit para facilitar o consumo das análises feitas pelo CEO.
 
-Link para acesso à aplicação: [Análises](https://houserokectanalytics.herokuapp.com/)
+Link para acesso à aplicação: [Análises]([https://houserokectanalytics.herokuapp.com/](https://gabrielsicari-house-rocket-analysis-house-github-qdp521.streamlitapp.com/))
 
 # 4. Lições Aprendidas
 Foi constatado que poderíamos verificar e selecionar oportunidades de negócio para o CEO da empresa House Rocket somente utilizando técnicas de manipulação de dados e ferramentas estatísticas, podendo entregar resultados sem a necessidade de utilizar técnicas e ferramentas mais complexas.
