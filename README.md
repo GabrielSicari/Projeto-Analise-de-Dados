@@ -97,12 +97,12 @@ As colunas da base de dados são:
 
 ## 3.2. Perguntas de Negócio
 ### 3.2.1. Quais são os imóveis que a House Rocket deveria comprar e por qual preço ?
-Foi realizado o agrupamento dos imóveis por código postal e calculado o valor mediano do preço de venda de cada código postal. A partir disso, foram selecionados os imóveis que possuiam o valor de venda menor que o valor mediano e que estavam em boa condições, gerando assim uma lista com **21419** imóveis elegíveis para compra.
+Foi realizado o agrupamento dos imóveis por código postal e calculado o valor mediano do preço de venda de cada código postal. A partir disso, foram selecionados os imóveis que possuiam o valor de venda menor que o valor mediano e que estavam em boa condições, gerando assim uma lista com **54** imóveis elegíveis para compra.
 
 ### 3.2.2. Uma vez o imóvel comprado, qual o melhor momento para vendê-lo e por qual preço ?
 A partir dos imóveis selecionados anteriormente, foi verificado a estação do ano em que cada imóvel foi vendido. Novamente, agrupando os dados por código postal e por estação do ano, foi calculado o valor mediano de venda do imóvel. Com o valor mediano calculado, foi selecionado o menor valor mediano de cada estação como base e realizado o cálculo do valor sugerido de venda para os 21.419 imóveis a partir das regras colocadas anteriormente.
 
-Caso a sugestão de valores de venda seja acatada, o lucro previsto com a venda dos imóveis será de **$ 1.460.518.541,70**
+Caso a sugestão de valores de venda seja acatada, o lucro previsto com a venda dos imóveis será de **$ 29.782.800,00**
 
 ### 3.2.3. Exibição das Análises
 Foi criado uma aplicação web utilizando o framework web Streamlit para facilitar o consumo das análises feitas pelo CEO.
