@@ -1,3 +1,5 @@
+https://gabrielsicari-house-rocket-analysis-house-github-qdp521.streamlitapp.com/
+
 # Projeto de Insights
 
 O Objetivo de um projeto de Insights é recomendar soluções para a empresa ou negócio através de ***Insights*** gerados por uma Análise de Dados. Por tanto, dentro do *roadmap* de resolução de problemas em Data Science, cobriremos somente os 5 primeiros passos:
