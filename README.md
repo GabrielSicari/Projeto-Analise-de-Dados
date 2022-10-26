@@ -113,8 +113,12 @@ Link para acesso à aplicação: [Análises](https://houserokectanalytics.heroku
 # 4. Lições Aprendidas
 Foi constatado que poderíamos verificar e selecionar oportunidades de negócio para o CEO da empresa House Rocket somente utilizando técnicas de manipulação de dados e ferramentas estatísticas, podendo entregar resultados sem a necessidade de utilizar técnicas e ferramentas mais complexas.
 
-# 5. Próximos Passos
-* Realizar mais análises a fim de melhorar o entendimento dos dados da base de dados.
-* Utilizar algoritmos de Machine Learning para melhorar a precificação dos imóvies, conseguindo assim melhorar os lucros previstos.
-* Melhorar a estrutura da aplicação Web, utilizando seções para a exibição das análises.
-* Adicionar testes automatizados para deixar o código mais robusto.
+## 5. Resultados financeiros para o negócio
+
+| Preço total de compra  |  Preço total de venda   |   Lucratividade total   |
+|------------------------|-------------------------|-------------------------|
+|     $179.537.408,00    |      $209.320.208,00     |      $29.782.800,00       |
+
+
+
+Meu linkedin: https://www.linkedin.com/in/gabrielsicari/
